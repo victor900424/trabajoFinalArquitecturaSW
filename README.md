@@ -1,3 +1,6 @@
 # Trabajo Final Arquitectura de Software
 
-Este trabajo se basa en el caso de Estudio: Transmisión de Datos desde un Campo de Exploración de Petróleo a Satélites
+En este repositorio se encuentra el trabajo final de Arquitectura de Software, donde se realizó.
+
+*Documento caso de estudio:* Caso de Estudio 1 - Transmisión de Datos desde un Campo de Exploración de Petróleo a Satélites.docx
+*Documento de Arquitectura:* DAS-Transmisión de Datos desde un Campo de Exploración de Petróleo a Satélites.docx
